@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatihanWindowWPF", "LatihanWindowWPF.csproj", "{C67092E4-0E29-4D30-AE78-D3DD09E81F37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C67092E4-0E29-4D30-AE78-D3DD09E81F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C67092E4-0E29-4D30-AE78-D3DD09E81F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C67092E4-0E29-4D30-AE78-D3DD09E81F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C67092E4-0E29-4D30-AE78-D3DD09E81F37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {236F311F-2A0D-4F60-A6D2-1B3466A2D622}
+	EndGlobalSection
+EndGlobal
